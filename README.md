@@ -1,5 +1,8 @@
 # Email Classification Model
 
+**Repository:** Gmail-Spam-Detector-with-VirusTotal-Integration  
+**GitHub URL:** https://github.com/bilalsxadad1231231/Gmail-Spam-Detector-with-VirusTotal-Integration
+
 This project implements a machine learning-based email classification system that can analyze and classify emails based on their content, sender, subject, and other features. It includes both a Python API and a Streamlit web application with VirusTotal integration for enhanced security analysis.
 
 ## Key Features
@@ -265,18 +268,6 @@ The BERT model training is implemented in the Jupyter notebook `BERT_spam_classi
   - Have access to GPU resources
   - Want better handling of complex text patterns
   - Need state-of-the-art performance
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your license information here]
-
-## Contact
-
-[Add your contact information here]
 
 ## Gmail Integration
 
